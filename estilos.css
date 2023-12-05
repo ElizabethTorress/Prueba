@@ -1,0 +1,23 @@
+.logo{ width:150px;
+		height:150px; 
+	 align-content: center;}
+.Productos{ width:250px;
+	 height:250px; }
+.sm{height: 100px;
+	 	width:250px;}
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: blue;}
+body{ background-image: url("background2.jpg");}
+table{ text-align:center;
+background-color:#a8c8d5;
+opacity:0.88;
+width:70% }
